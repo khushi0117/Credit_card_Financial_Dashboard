@@ -1,7 +1,7 @@
 # Credit_card_Financial_Dashboard
 Power Bi Dashbaord
 
-Project Objective
+Project Objective :
 The objective of this project is to create a comprehensive financial report for credit card transactions using Power BI and PostgreSQL. The report aims to provide insights into customer spending behavior, transaction patterns, and financial health of the credit card portfolio.
 
 Skills Utilized 
